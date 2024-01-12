@@ -1,1 +1,7 @@
-# Projeto desenvolvido como treinamento sobre a linguagem C, nele contém diversos conceitos sobrea linguagem, sendo eles desde o iniciante até o avançado. Podendo ser executado diretamente no cmd ou em uma IDE que comporte a linguagem.
+# Projeto em C: Treinamento Abrangendo Conceitos Iniciantes e Avançados
+
+Este projeto foi desenvolvido como parte de um treinamento abrangente sobre a linguagem C. Ele incorpora diversos conceitos que vão desde o nível iniciante até o avançado. O código pode ser executado diretamente no prompt de comando (`cmd`) ou em uma IDE que suporte a linguagem.
+
+## Descrição do Projeto
+
+O projeto consiste em um sistema básico de gerenciamento de alunos, fornecendo funcionalidades como adição de alunos, visualização de suas informações e cálculos de estatísticas simples. Ele abrange uma variedade de conceitos fundamentais da linguagem C.
