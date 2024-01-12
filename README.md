@@ -1,0 +1,1 @@
+# Projeto desenvolvido como treinamento sobre a linguagem C, nele contém diversos conceitos sobrea linguagem, sendo eles desde o iniciante até o avançado. Podendo ser executado diretamente no cmd ou em uma IDE que comporte a linguagem.
